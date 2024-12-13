@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* index.css */
+body, html {
+  overflow-x: hidden; /* Prevent horizontal overflow */
+  margin: 0; /* Optional: ensures no default margin on body */
+  padding: 0; /* Optional: ensures no default padding on body */
+}
