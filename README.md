@@ -1,12 +1,6 @@
-# CarbMine
+# GreenMine
 
-**CarbMine** is a comprehensive web application designed to help the Indian coal industry address climate change challenges. It empowers coal mine operators to make informed decisions by quantifying carbon footprints and offering pathways to achieve carbon neutrality. The tool features emission estimation, carbon neutrality simulations, data visualization, carbon credit calculations, and allows users to generate and store PDF reports of their analysis.
-
-## Demo Video
-
-Here is the working demo of CarbMine:
-
-[Demo Video](https://youtu.be/T19DcbGDWgY?feature=shared)
+**GreenMine** is a comprehensive web application designed to help the Indian coal industry address climate change challenges. It empowers coal mine operators to make informed decisions by quantifying carbon footprints and offering pathways to achieve carbon neutrality. The tool features emission estimation, carbon neutrality simulations, data visualization, carbon credit calculations, and allows users to generate and store PDF reports of their analysis.
 
 ## Features
 
@@ -110,81 +104,3 @@ To run the Coal Carbon Footprint Tool locally, follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-
-
-
-
-<section>
-              <h2 className="text-3xl font-semibold text-gray-900 mb-4">References</h2>
-              <div className="space-y-6">
-                {/* Reference 1 */}
-                <div className="bg-gray-100 p-6 rounded-lg shadow-md border border-gray-200 hover:shadow-lg transition-transform duration-300 transform hover:scale-105">
-                  <h3 className="text-2xl font-semibold text-gray-800">2006 IPCC Guidelines for National Greenhouse Gas Inventories</h3>
-                  <p className="text-base text-gray-700 mt-4">
-                    These guidelines provide methodologies for estimating greenhouse gas emissions and removals.
-                    <br />
-                    <a href="https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
-                      className="text-blue-600 hover:underline"
-                      target="_blank"
-                      rel="noopener noreferrer">Link to IPCC Mobile Combustion Guidelines</a>
-                    <br />
-                    <a href="https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_2_Ch2_Stationary_Combustion.pdf"
-                      className="text-blue-600 hover:underline"
-                      target="_blank"
-                      rel="noopener noreferrer">Link to IPCC Stationary Combustion Guidelines</a>
-                  </p>
-                </div>
-
-                {/* Reference 2 */}
-                <div className="bg-gray-100 p-6 rounded-lg shadow-md border border-gray-200 hover:shadow-lg transition-transform duration-300 transform hover:scale-105">
-                  <h3 className="text-2xl font-semibold text-gray-800">Carbon Footprint Reduction from EVs</h3>
-                  <p className="text-base text-gray-700 mt-4">
-                    EVs typically reduce carbon emissions by 20%-30% compared to conventional vehicles.
-                    <br />
-                    <a href="https://www.iea.org/reports/global-ev-outlook-2023"
-                      className="text-blue-600 hover:underline"
-                      target="_blank"
-                      rel="noopener noreferrer">Link to IEA Global EV Outlook 2023</a>
-                  </p>
-                </div>
-
-                {/* Reference 3 */}
-                <div className="bg-gray-100 p-6 rounded-lg shadow-md border border-gray-200 hover:shadow-lg transition-transform duration-300 transform hover:scale-105">
-                  <h3 className="text-2xl font-semibold text-gray-800">Carbon Footprint Reduction from Cleaner Fuels</h3>
-                  <p className="text-base text-gray-700 mt-4">
-                    Switching from coal to natural gas can reduce carbon emissions by about 50%.
-                    <br />
-                    <a href="https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-passenger-vehicle"
-                      className="text-blue-600 hover:underline"
-                      target="_blank"
-                      rel="noopener noreferrer">Link to EPA Greenhouse Gas Emissions from Passenger Vehicles</a>
-                  </p>
-                </div>
-
-                {/* Reference 4 */}
-                <div className="bg-gray-100 p-6 rounded-lg shadow-md border border-gray-200 hover:shadow-lg transition-transform duration-300 transform hover:scale-105">
-                  <h3 className="text-2xl font-semibold text-gray-800">Afforestation Sequestration Rate</h3>
-                  <p className="text-base text-gray-700 mt-4">
-                    Afforestation sequesters approximately 2.2 tons of carbon per hectare per year.
-                    <br />
-                    <a href="https://www.ipcc.ch/srccl/"
-                      className="text-blue-600 hover:underline"
-                      target="_blank"
-                      rel="noopener noreferrer">Link to IPCC Special Report on Climate Change and Land</a>
-                  </p>
-                </div>
-
-                {/* Reference 5 */}
-                <div className="bg-gray-100 p-6 rounded-lg shadow-md border border-gray-200 hover:shadow-lg transition-transform duration-300 transform hover:scale-105">
-                  <h3 className="text-2xl font-semibold text-gray-800">Renewable Energy Reduction</h3>
-                  <p className="text-base text-gray-700 mt-4">
-                    Renewable energy can reduce electricity consumption and carbon emissions by up to 30%.
-                    <br />
-                    <a href="https://www.irena.org/publications/2022/Dec/Renewable-Energy-and-Jobs-Annual-Review-2022"
-                      className="text-blue-600 hover:underline"
-                      target="_blank"
-                      rel="noopener noreferrer">Link to IRENA Renewable Energy and Jobs Annual Review 2022</a>
-                  </p>
-                </div>
-              </div>
-            </section>
